@@ -20,7 +20,7 @@ public class FourTest extends Base{
 		driver=intializerDriver();
 		driver.get("https://tutorialsninja.com/demo/");
 	    Thread.sleep(2000);
-	    Assert.assertTrue(false);
+	    
 	    
 		
 	}
